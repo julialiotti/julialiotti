@@ -2,5 +2,6 @@
 
 - 💻 Atualmente estou estudando a linguagem de programação Java como primeiro contato com a programação;
 - 🌱 Me interesso mais pela parte do back-end e meu maior foco profissional é usar a tecnologia para tentar diminuir os impactos 
-ambientais que estamos passando.
+ambientais que estamos passando;
+- 💕 Sou apaixonada por coisas em 8 bit;
 - 📫 É possível me encontrar no LinkedIn: https://www.linkedin.com/in/julia-liotti-nascimento-1337501a4/
